@@ -1,5 +1,6 @@
 # Azt:Auth Template
 
+
 Authentication Template Bootstrap v5.0
 AztAuth offers you the best template created by the latest version of  HTML and SASS built with Bootstrap 5 Framework with full responsive web design.
 
